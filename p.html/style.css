@@ -365,5 +365,9 @@ header.sticky{
     .navmenu.open{
         right: 0;
     }
+
+    .main-home {
+        background-position: 60%;
+    }
 }
 
