@@ -3,6 +3,7 @@
 [esm shopo benevis] is a minimalist online store focused on providing users with a seamless shopping experience. We adhere to simple and efficient HTML and CSS design principles to ensure users can easily find and purchase their desired products. 
  
 ## Our Website's Advantages: 
+
  
 1. Minimalism: Our simple and minimalist design allows users to navigate through the website swiftly and enjoy a hassle-free experience. 
  
